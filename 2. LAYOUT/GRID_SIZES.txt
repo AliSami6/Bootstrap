@@ -1,0 +1,7 @@
+Small devices are defined as having a screen width from 768 pixels to 991 pixels.
+
+
+Medium devices are defined as having a screen width from 992 pixels to 1199 pixels.
+
+
+Large devices are defined as having a screen width from 1200 pixels and above.
